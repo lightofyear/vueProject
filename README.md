@@ -1,2 +1,2 @@
 # vue-vuerouter-demo
-vueProject testtesttesttesttesttest
+vueProject test
